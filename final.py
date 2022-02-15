@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-
+print("h")
 import paho.mqtt.client as mqtt
 from ev3dev.ev3 import *
 import math
